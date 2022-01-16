@@ -14,4 +14,7 @@ Step # 3.
   - Publish the changes and sync them
   - Also copy all folder in your notebook repository folder and repeat the last steps
     - stage > Commit > publish > Sync
-    - 
+
+
+## How to pull a repository from GitHub
+
