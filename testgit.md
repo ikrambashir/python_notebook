@@ -11,4 +11,7 @@ Step # 2.
 Step # 3.
   - make new repository in your github account and copy the link
   - add the link to create an remote in your VSC
-  - Publish the changes
+  - Publish the changes and sync them
+  - Also copy all folder in your notebook repository folder and repeat the last steps
+    - stage > Commit > publish > Sync
+    - 
